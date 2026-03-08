@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Output data — contains personal file paths and large datasets
+output/
+staging/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+config_local.py
