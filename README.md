@@ -1,6 +1,14 @@
-# Threat Defense Command
+<p align="center">
+  <img src="docs/assets/threat-array.png" alt="Threat Defense Command" width="400"/>
+</p>
 
-A terminal-based air defense strategy game written in Python.
+<h1 align="center">Threat Defense Command</h1>
+
+<p align="center">
+  <em>A terminal-based air defense strategy game written in Python.</em>
+</p>
+
+---
 
 You are the commander of a city's integrated defense network. Enemy forces are
 launching a coordinated attack using a mix of ICBMs, cruise missiles, short-range
